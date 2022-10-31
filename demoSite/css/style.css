@@ -1,0 +1,131 @@
+body {
+  background-color: black;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+#nav-div {
+  background-color: green;
+  padding: 20px;
+}
+
+#myname {
+  margin-right: 60%;
+  font-size: 55px;
+  font-family: "Dancing Script", cursive;
+}
+
+#nav-list {
+  list-style-type: none;
+  overflow: auto;
+}
+
+#nav-li {
+  padding: 20px;
+  font-size: larger;
+  float: right;
+}
+
+#greetings {
+  padding: 20px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 35px;
+}
+
+#about-heading {
+  color: green;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: -8px;
+}
+
+#about-hr {
+  width: 3%;
+}
+
+#myphoto {
+  display: inline-block;
+  overflow: auto;
+  margin-left: 300px;
+}
+
+#about-text {
+  display: inline-block;
+  width: 30%;
+  margin-left: 355px;
+}
+
+#projects{
+  background-color: #c2c0c3;
+  color: black;
+}
+
+#projects-heading {
+  text-align: center;
+}
+
+#project-li {
+  padding: 20px;
+}
+
+#contact-heading{
+  text-align: center;
+  font-size: 35px;
+}
+
+#contact-form {
+  background-color: black;
+  text-align: center;
+  width: 40%;
+  padding: 30px;
+  max-width: 100%;
+  margin: auto; /* advance concept h aage pdenge */
+}
+
+label{
+  width: 120px;
+  display: inline-block;
+  text-align: left;
+}
+
+#submit-btn{
+  height: 50px;
+  width: 140px;
+  background-color: green;
+  color: white;
+  font-size: 24px;
+}
+
+#message-label{
+  width: 300px;
+}
+
+#footer-list {
+  background-color: green;
+  list-style-type: none;
+  padding: 20px;
+  overflow: auto;
+}
+
+#footer-li {
+  float: right;
+  padding: 0px 150px;
+}
+
+#lower-footer {
+  background-color: black;
+  height: 28px;
+}
+
+#credit {
+  width: 70%;
+  display: inline-block;
+}
+
+#top-btn {
+  float: right;
+  width: 5%;
+  height: 20px;
+  color: orange;
+}
